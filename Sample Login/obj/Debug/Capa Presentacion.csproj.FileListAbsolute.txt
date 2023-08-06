@@ -1,0 +1,11 @@
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\bin\Debug\Sample Login.exe.config
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\bin\Debug\Sample Login.exe
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\bin\Debug\Sample Login.pdb
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample_Login.Properties.Resources.resources
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample Login.exe
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample Login.pdb
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample_Login.frmLogin.resources
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample_Login.frmRegistrarse.resources
+c:\users\maxwell madrigal\documents\visual studio 2015\Projects\Sample Login\Sample Login\obj\Debug\Sample_Login.frmClientes.resources
