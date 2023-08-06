@@ -1,0 +1,18 @@
+create database SampleDb
+use SampleDb
+
+CREATE TABLE Usuarios(
+IdUser INT IDENTITY PRIMARY KEY,
+Correo NVARCHAR(200) NOT NULL,
+Contraseña NVARCHAR(MAX) NOT NULL,
+Activo BIT NOT NULL DEFAULT 1)
+
+CREATE TABLE Clientes(
+IdCliente INT IDENTITY PRIMARY KEY,
+PrimerNombre nvarchar(200) NOT NULL,
+SegundoNombre nvarchar(200) NOT NULL,
+PrimerApellido nvarchar(200) NOT NULL,
+SegundoApellido nvarchar(200) NOT NULL,
+Identificacion nvarchar(30) NOT NULL,
+TipoIdentificacion nvarchar(30) NOT NULL,
+Estado BIT NOT NULL DEFAULT 1)
